@@ -1,0 +1,16 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+.row {
+  display: inline-block;
+}
+
+.paddingLeft {
+  padding-left: 100px;
+}
+
+.actionStyles {
+  /*text-decoration: underline;*/
+  cursor: pointer;
+}
